@@ -1,8 +1,4 @@
-# Resume
 
-An online résumé. [Demo Site](https://demo-resume.netlify.app)  
-
-![a preview of the generated résumé as a website and in print](src/assets/images/demo/resume.png)  
 
 ## Features
 
