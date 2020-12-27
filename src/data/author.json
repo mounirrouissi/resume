@@ -1,0 +1,44 @@
+{
+    "name": "Mounir Rouissi",
+    "occupation": "Front-End Developer",
+    "location": "Tunis, Tn",
+    "avatar": ".jpg",
+    "pronouns": "he",
+    "email": "mounirrouissi2@gmail.com",
+    "telephone": "+01 23 456 789",
+    "website": "https://mounirrouissi.dev",
+    "skills": [
+        "HTML",
+        "CSS",
+        "Javascript / ES6",
+        "UI Design",
+        "React",
+        "Git"
+    ],
+    "languages": [
+        {
+            "name": "Arabic",
+            "level": "native"
+        },
+        {
+            "name": "German",
+            "level": "fluent"
+        },
+        {
+            "name": "French",
+            "level": "basic"
+        }
+    ],
+    "social": [
+        {
+            "name": "Github",
+            "user": "@annaquincey",
+            "url": "https://github.com/mounirouiss2@gmail.com"
+        },
+        {
+            "name": "LinkedIn",
+            "user": "AnnaQncy",
+            "url": "https://www.linkedin.com/in/mounirrouissi"
+        }
+    ]
+}
